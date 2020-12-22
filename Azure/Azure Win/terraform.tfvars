@@ -1,0 +1,7 @@
+rg_name          = "variable-RG"
+location         = "Southeast Asia"
+vnet_name        = "Dev_Vnet"
+address_space    = "16.16.0.0/16"
+subnet_name      =  "Dev_Snet"
+snet_prefix      =  "16.16.1.0/24"
+pip_name         =  "Dev_PiP01"
