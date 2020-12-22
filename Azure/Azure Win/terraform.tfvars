@@ -1,4 +1,4 @@
-rg_name          = "variable-RG"
+rg_name          = "Terraform-RG"
 location         = "Southeast Asia"
 vnet_name        = "Dev_Vnet"
 address_space    = "16.16.0.0/16"
